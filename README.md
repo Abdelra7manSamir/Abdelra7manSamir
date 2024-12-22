@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 ### This is Abdelra7manSamir!
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Abdelra7manSamir)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)(https://www.linkedin.com/in/abdelrahman-samir-2169721b6/).
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdelrahman-samir-2169721b6/).
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](sahersame44@gmail.com)
 
 Welcome to my Github page! I am Abdelra7manSamir and I am 22 years old ,i am a student in the college of computers & Artificial Intelligence in my final year in MTI University.  
