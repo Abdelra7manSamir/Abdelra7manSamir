@@ -21,12 +21,13 @@ Here are some ideas to get you started:
 &nbsp; <a href="https://www.instagram.com/saher.sameer.965?igsh=eTNqZmtsZms2ZG9x&utm_source=qr" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/instagram-new.png" width="50" /></a>  
 &nbsp; <a href="https://www.linkedin.com/in/abdelrahman-samir-2169721b6/" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
 &nbsp; <a href="sahersame44@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+	
 </p>
-
+<h2> Hey there! I'm Abdelra7manSamir <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 Welcome to my Github page! I am Abdelra7manSamir and I am 22 years old ,i am a student in the college of computers & Artificial Intelligence in my final year in MTI University.  
 
-<h2> Hey there! I'm souvik. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
 
 
 
