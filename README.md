@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Welcome to my Github page! I am Abdelra7manSamir and I am 22 years old ,i am a student in the college of computers & Artificial Intelligence in my final year in MTI University.  
 
-<img align="right" alt="img" src="https://github.com/Abdelra7manSamir/code" width="50%" height="auto" />
+<img align="right" alt="img" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cybersecurityeducation.org%2Fcareers%2Fsoc-analyst%2F&psig=AOvVaw3UuTg9i1BT85LiktP0zzwP&ust=1734998752406000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCcv7HMvIoDFQAAAAAdAAAAABAE" width="50%" height="auto" />
 
 
 #### 🌱 Things I am currently working on: 
