@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 &nbsp; <a href="sahersame44@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
 </p>
 
-⭐️ From [Abdelra7manSamir](https://github.com/Abdelra7manSamir)
+
  
 
 
@@ -47,4 +47,4 @@ Welcome to my Github page! I am Abdelra7manSamir and I am 22 years old ,i am a s
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <br />
 
-
+⭐️ From [Abdelra7manSamir](https://github.com/Abdelra7manSamir)
