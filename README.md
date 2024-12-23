@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 Welcome to my Github page! I am Abdelra7manSamir and I am 22 years old ,i am a student in the college of computers & Artificial Intelligence in my final year in MTI University.  
 
-<img align="right" alt="img" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cybersecurityeducation.org%2Fcareers%2Fsoc-analyst%2F&psig=AOvVaw3UuTg9i1BT85LiktP0zzwP&ust=1734998752406000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCcv7HMvIoDFQAAAAAdAAAAABAE" width="50%" height="auto" />
+
 
 
 #### 🌱 Things I am currently working on: 
@@ -41,13 +41,4 @@ Welcome to my Github page! I am Abdelra7manSamir and I am 22 years old ,i am a s
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img width="8%" src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg"></code>
 <br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
-<br />
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_spark/apache_spark-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-ar21.svg"></code>
-<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-</p>
 
-<sub>Credits to: <br/>[IreneHerrerart](https://www.artstation.com/ireneherrera) for the wonderfull [picture](https://github.com/FernandoRoldan93/FernandoRoldan93/blob/master/cover_image.jpg)</sub>
